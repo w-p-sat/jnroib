@@ -23,13 +23,13 @@ $(document).ready(function(){
           slidesToShow: 2,
           slidesToScroll: 2
         }
-      }
-      // {
-      //   breakpoint: 700, // Для екранів менше 480px
-      //   settings: {
-      //     slidesToShow: 1,
-      //     slidesToScroll: 1
-      //   }
+      },
+      {
+        breakpoint: 700, // Для екранів менше 480px
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
       }
     ]
   });
