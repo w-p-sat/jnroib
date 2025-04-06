@@ -93,8 +93,7 @@ body.no-scroll {
     overflow: hidden; /* Заборона прокручування */
 }
 #window_menu_closed{
-
-    padding-top: 75px;
+    padding-top: 25px;
     cursor: pointer;
     display: block;
     margin-bottom: 30px;
