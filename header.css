@@ -87,7 +87,7 @@ header{
     box-shadow: 0px 0px 100px 0px rgba(0, 0, 0, 1);
         /* Додати прокручування */
     overflow-y: auto; 
-    max-height: 100dvh; 
+    height: 100dvh; 
 }
 body.no-scroll {
     overflow: hidden; /* Заборона прокручування */
